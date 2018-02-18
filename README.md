@@ -15,7 +15,7 @@ Beside that it enabled other bundles to add package requirements via metadata.
 
     'metadata': {
         'opkg': {
-			      'extra_packages': ['somepackage'], # optional
+            'extra_packages': ['somepackage'], # optional
         },
     }
 
